@@ -8,3 +8,6 @@
 
 ### REACT REDUX intro
 <a>http://blog.isquaredsoftware.com/presentations/2017-02-react-redux-intro/#/0</a>
+
+### Basic redux integration
+<a>http://redux.js.org/docs/basics/ExampleTodoList.html</a>
