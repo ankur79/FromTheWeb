@@ -11,3 +11,9 @@
 
 ### Basic redux integration
 <a>http://redux.js.org/docs/basics/ExampleTodoList.html</a>
+
+### How to think like programmer
+<a>https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd</a>
+
+### 7 architectural attributes of a reliable React component
+<a>https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/?utm_source=reactnl&utm_medium=email</a>
