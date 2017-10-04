@@ -17,3 +17,6 @@
 
 ### 7 architectural attributes of a reliable React component
 <a>https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/?utm_source=reactnl&utm_medium=email</a>
+
+### Google Map with ReactJS
+<a>https://tomchentw.github.io/react-google-maps/</a>
