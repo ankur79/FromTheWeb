@@ -20,3 +20,6 @@
 
 ### Google Map with ReactJS
 <a>https://tomchentw.github.io/react-google-maps/</a>
+
+### Immutably setting in js array
+<a>https://medium.com/@giltayar/immutably-setting-a-value-in-a-js-array-or-how-an-array-is-also-an-object-55337f4d6702</a>
