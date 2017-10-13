@@ -26,3 +26,6 @@
 
 ### Redux in 30 seconds
 <a>https://dev.to/ross/reduxjs-in-30-seconds-5hj?utm_source=reactnl&utm_medium=email</a>
+
+### Charting Lib
+<a>https://www.taucharts.com/</a>
