@@ -23,3 +23,6 @@
 
 ### Immutably setting in js array
 <a>https://medium.com/@giltayar/immutably-setting-a-value-in-a-js-array-or-how-an-array-is-also-an-object-55337f4d6702</a>
+
+### Redux in 30 seconds
+<a>https://dev.to/ross/reduxjs-in-30-seconds-5hj?utm_source=reactnl&utm_medium=email</a>
